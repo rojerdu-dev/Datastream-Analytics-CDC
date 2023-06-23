@@ -10,7 +10,7 @@ This project aims to build a reliable and low-latency data replication and analy
 * This project utilizes Oracle's [world_x database](https://docs.oracle.com/cd/E17952_01/mysql-8.0-en/mysql-shell-tutorial-javascript-download.html), which is a comprehensive colelction of data about countries, cities, languages, and other geographical information. 
 
 # Architecture Diagram 
-![Alt text](https://github.com/rojerdu-dev/Global-Language-Rankings/blob/main/GCP%20Proj1%20-%20Architecture%20Diagram.png?raw=true)
+![Alt text](https://github.com/rojerdu-dev/Datastream-Analytics-CDC/blob/main/Project%20Diagram.png)
 _Diagram made using [Excalidraw](https://excalidraw.com/)_
 
 # 3 Phases 

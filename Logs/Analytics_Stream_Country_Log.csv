@@ -1,0 +1,240 @@
+Code,Name,Capital,Code2,_metadata_timestamp,_metadata_read_timestamp,_metadata_read_method,_metadata_source_type,_metadata_deleted,_metadata_change_type,_metadata_uuid,_metadata_log_file,_metadata_log_position
+CMR,Cameroon,1804,CM,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,70ee5959-f139-486e-8c76-9e4baa70c69e,,0
+JPN,Japan,1532,JP,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,781f7f01-b1c1-4909-a31d-9a1b5d463772,,0
+NFK,Norfolk Island,2806,NF,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,7afd9636-312e-45e7-aedf-17a1812ab4a3,,0
+ARG,Argentina,69,AR,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,f58c831b-b6c8-49a4-a94d-fbd4f9299059,,0
+CYM,Cayman Islands,553,KY,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,94a6d87a-c1d5-4793-8e2b-ec3109039f84,,0
+WSM,Samoa,3169,WS,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,64fd662c-3dc3-4605-81c4-212f4b6b0edf,,0
+AIA,Anguilla,62,AI,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,3364048e-cd0c-4382-b3ef-05e35fb316e4,,0
+UGA,Uganda,3425,UG,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,bd8f6488-266e-4c72-a606-b4684721abee,,0
+GRL,Greenland,917,GL,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,0613b774-ea26-4221-91cc-6f7bbf8bf319,,0
+LIE,Liechtenstein,2446,LI,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,7a477d80-af87-4e86-8e8b-81d82c666a6b,,0
+COL,Colombia,2257,CO,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,bfa36775-73b6-4299-931e-cd094c8b7cdc,,0
+CAN,Canada,1822,CA,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,894f8509-cb52-41ed-a398-aed02fb3ce98,,0
+BGD,Bangladesh,150,BD,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,4e74edf1-3ec7-466c-b747-7f7e817dc090,,0
+UKR,Ukraine,3426,UA,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,bcfdd775-3333-48cb-8275-62d88fd2d2fd,,0
+GMB,Gambia,904,GM,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,a7e09826-4329-478d-9029-3fd17a8151dc,,0
+BEL,Belgium,179,BE,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,63ced6f7-770a-40a5-8f49-f826a65be155,,0
+SOM,Somalia,3214,SO,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,91161217-0b79-49c7-8012-1e43ced89647,,0
+CHE,Switzerland,3248,CH,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,3f1f8845-5452-4cf3-8d1a-7e0b5ea3a19f,,0
+GUM,Guam,921,GU,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,c70c9234-4169-430e-8bd2-7947189e8a5c,,0
+MUS,Mauritius,2511,MU,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,9c1607d4-55cd-46ae-a2f6-40ddbaeab966,,0
+BLZ,Belize,185,BZ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,5e4201eb-42e8-4da1-a030-dc38b8927495,,0
+RWA,Rwanda,3047,RW,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,6a38f10f-8c63-4fd7-8adf-4e903cdb3562,,0
+PLW,Palau,2881,PW,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,08532846-04e6-49ea-95e4-da2fbcd2893e,,0
+SJM,Svalbard and Jan Mayen,938,SJ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,88ae2115-e658-42c3-b9b0-278469d78e30,,0
+MNP,Northern Mariana Islands,2913,MP,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,00c59210-3de4-47c5-9190-2791035e80cb,,0
+BRN,Brunei,538,BN,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,7d35b600-85d9-4975-b91b-0801cc665498,,0
+URY,Uruguay,3492,UY,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,4401ab5c-2202-4dbb-8f5b-161583422743,,0
+KWT,Kuwait,2429,KW,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,5079d457-054e-4ea5-afdb-21c61d62a172,,0
+AGO,Angola,56,AO,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,f048f7e4-b294-42f5-977f-18ab4aafcf99,,0
+TUR,Turkey,3358,TR,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,ce58665d-57ad-4b16-92f3-c2d5866e867e,,0
+MAR,Morocco,2486,MA,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,4250e305-5409-4a23-92d5-585439c3d765,,0
+KAZ,Kazakstan,1864,KZ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,c0eeb93c-35ba-4f33-882d-e01c8be79d5c,,0
+BMU,Bermuda,191,BM,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,fd78d3bf-1f87-42e3-9d34-00f0fbc5dc3d,,0
+ISL,Iceland,1449,IS,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,6ea31fe3-2eb1-4e42-bd54-69a2bac8f492,,0
+UMI,United States Minor Outlying Islands,,UM,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,5b2bf699-91c7-401b-a096-941ae7806553,,0
+MOZ,Mozambique,2698,MZ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,b4fe5eb3-a180-4267-913c-f212fa797c78,,0
+DEU,Germany,3068,DE,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,01935d24-f149-48db-bf1f-b1b002ce6b09,,0
+BRB,Barbados,174,BB,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,fe46009b-070c-444e-b782-d88a61744b73,,0
+HTI,Haiti,929,HT,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,3d428dea-933b-4d25-a537-cc0ea96c01b9,,0
+VNM,Vietnam,3770,VN,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,ea0a53a5-24f3-476d-9d8a-401ff653638a,,0
+IRL,Ireland,1447,IE,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,8df83b6d-a5ce-4d97-91ec-41d9e31ca741,,0
+LKA,Sri Lanka,3217,LK,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,220866b8-ccf6-44ce-a47a-8d85cf372e8f,,0
+GAB,Gabon,902,GA,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,a34e4e04-0acb-445b-bcd2-d47e1bca2b3a,,0
+MLT,Malta,2484,MT,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,c6a1b0b3-73de-4b43-a36c-11bd297953d6,,0
+GBR,United Kingdom,456,GB,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,a659833b-b32f-4457-9625-048bd0b6ab4c,,0
+OMN,Oman,2821,OM,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,834de382-24a6-4d74-b423-55d957c77cdc,,0
+BLR,Belarus,3520,BY,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,3c18f6f4-6a6a-403d-a4b0-10f6ed343577,,0
+LTU,Lithuania,2447,LT,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,4e7e274a-0b94-4ee2-bff5-3a43c4351faa,,0
+ATF,French Southern territories,,TF,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,69353402-5e84-4581-89ee-65a19ca4f36a,,0
+FJI,Fiji Islands,764,FJ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,b593df1e-1155-44a3-b831-e34d321283bb,,0
+ASM,American Samoa,54,AS,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,032e2b4d-01b6-4c52-994e-2fd3533aac35,,0
+BTN,Bhutan,192,BT,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,21bf6be2-1eac-4ffa-aaf7-0f72f6116b84,,0
+ATA,Antarctica,,AQ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,94d04d3e-3db9-4311-b64d-2848b8300e99,,0
+NCL,New Caledonia,3493,NC,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,2053f936-3010-4fa4-81e4-f88eb0adcb46,,0
+BHR,Bahrain,149,BH,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,0ab4447c-861d-4889-9170-2ff8d1c7ce7d,,0
+MYT,Mayotte,2514,YT,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,705099ce-a013-412a-bcf8-bde318c722a5,,0
+ESH,Western Sahara,2453,EH,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,8b890da6-6a1d-4360-b3f8-b3a2aa7613d1,,0
+LBY,Libyan Arab Jamahiriya,2441,LY,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,07393af1-cb8a-4010-99ad-2c729dcadbcc,,0
+LBN,Lebanon,2438,LB,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,fc0bcf75-0153-4026-ad66-da72490f04d6,,0
+CYP,Cyprus,2430,CY,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,e7d1e0db-0632-49ec-87cc-79072dc630da,,0
+PNG,Papua New Guinea,2884,PG,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,b0480e18-0fd6-4b24-b7d9-4c217c16c397,,0
+ETH,Ethiopia,756,ET,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,cf072b21-a959-4328-9c7f-28d1761d9dd7,,0
+HUN,Hungary,3483,HU,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,391beaac-3d8f-4dea-8634-20f9b20fc278,,0
+DOM,Dominican Republic,587,DO,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,c82e56c1-3a4b-4750-b0ac-26a43bdcd382,,0
+GLP,Guadeloupe,919,GP,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,d8346324-05b5-4cb0-9994-117c72110977,,0
+GRD,Grenada,916,GD,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,6e168083-e6db-40a4-877e-3c202e4976e3,,0
+HRV,Croatia,2409,HR,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,4d98a115-ba63-42d0-b68c-d396b551f9ae,,0
+MWI,Malawi,2462,MW,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,f92f8e54-a0d4-4bff-8cf6-6e01e625170e,,0
+TJK,Tajikistan,3261,TJ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,16a17f08-48c6-4c39-9c3c-96436ff6fbcf,,0
+DJI,Djibouti,585,DJ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,757d666b-e222-4d65-9c4c-9671601cf19e,,0
+NAM,Namibia,2726,NA,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,b0bbbae8-c591-449f-a899-024a81fcba55,,0
+MNG,Mongolia,2696,MN,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,b818438d-2706-4b07-9c2b-7f378485d975,,0
+FIN,Finland,3236,FI,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,280711a0-47a9-4042-9413-8c115ed2d8f0,,0
+BHS,Bahamas,148,BS,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,e8e38eee-cb1c-456f-8565-e14fd1e46cd2,,0
+USA,United States,3813,US,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,d068e6f2-453e-4058-ba3e-8c4d01f604c3,,0
+JOR,Jordan,1786,JO,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,2bfdf178-6828-4305-9d25-0f058c77455e,,0
+ARM,Armenia,126,AM,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,f6efd206-27f6-4b9a-908b-d82dbebb52b3,,0
+GRC,Greece,2401,GR,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,baffb270-22d2-44eb-bede-b099307f97d8,,0
+COM,Comoros,2295,KM,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,dff0612f-cded-46ab-9e43-53016206f44e,,0
+VCT,Saint Vincent and the Grenadines,3066,VC,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,d392bd1d-4652-4594-ab01-4cb3278b2b3d,,0
+GUF,French Guiana,3014,GF,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,e7aae139-b397-45b9-93dd-638b748ada4d,,0
+KEN,Kenya,1881,KE,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,1f9514ff-ade5-4eae-ac0f-8cb242f93369,,0
+MAC,Macao,2454,MO,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,746b8bf7-a382-4088-b9a9-5750e57ade6e,,0
+REU,Réunion,3017,RE,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,0d6cc486-3c70-40da-a6fa-a44b6952e31a,,0
+CPV,Cape Verde,1859,CV,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,222a7426-893c-4a14-a091-96278a02a430,,0
+SGS,South Georgia and the South Sandwich Islands,,GS,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,704260f9-54bd-4076-973c-8d04cc0446fc,,0
+YUG,Yugoslavia,1792,YU,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,02e645de-8148-4786-9afe-9617cf54b23e,,0
+MRT,Mauritania,2509,MR,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,86fdecc9-b7f5-4adb-9876-17d6bf62de79,,0
+ITA,Italy,1464,IT,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,45563f4c-f9e4-4f96-b2b2-8bd19e83c007,,0
+SDN,Sudan,3225,SD,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,f521ea32-15da-4d4f-8763-93266417a4da,,0
+NER,Niger,2738,NE,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,f39d38c2-ae4d-4370-8c1c-260fe4bcddc3,,0
+CUB,Cuba,2413,CU,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,4df6d172-ff82-47e3-9364-ae32bf396bfa,,0
+LUX,Luxembourg,2452,LU,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,3fc19ea3-795e-41b7-b348-4a4b0540c8b5,,0
+TZA,Tanzania,3306,TZ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,635483f0-3100-476a-99e1-1bd0ef751bc1,,0
+LVA,Latvia,2434,LV,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,eba90836-06ec-42bd-96e0-e7811b829fe9,,0
+KGZ,Kyrgyzstan,2253,KG,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,3f61d114-85c2-423f-b0b9-00a48185ec6c,,0
+GHA,Ghana,910,GH,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,adee2c22-351c-49a9-969e-a53ddd562fe1,,0
+YEM,Yemen,1780,YE,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,c05fc13b-2c5a-4a73-a165-f04eb5991340,,0
+RUS,Russian Federation,3580,RU,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,b3e4e759-33e3-485e-8f48-ee8764a45b4a,,0
+IRN,Iran,1380,IR,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,ebbf6d0c-c913-4e0e-9c06-6314909f7627,,0
+MLI,Mali,2482,ML,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,a283e655-8530-4742-b85e-80c0fbde9fc6,,0
+EST,Estonia,3791,EE,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,2f7111b4-cbd1-41e3-bb2e-02c1c697fc22,,0
+BVT,Bouvet Island,,BV,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,0794707b-3bdb-485c-90c3-db83d7403b52,,0
+FRA,France,2974,FR,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,ae6d6994-b4dd-43d0-802a-23dea26bae82,,0
+SYR,Syria,3250,SY,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,ecc0acc8-864d-4604-b0e7-d489742a3b6a,,0
+IOT,British Indian Ocean Territory,,IO,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,1b48518f-0c6f-42fa-8f6b-965de3076607,,0
+SUR,Suriname,3243,SR,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,1e8ff489-f934-4513-a23e-fd0cea99e25c,,0
+POL,Poland,2928,PL,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,e6709907-ed29-41db-b3a5-ca177c40b995,,0
+BFA,Burkina Faso,549,BF,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,fbd570cf-cc95-4813-b088-9bfb3a214c89,,0
+PRI,Puerto Rico,2919,PR,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,30dc5e97-61f2-409e-be7b-9fa87b8e3aa9,,0
+GEO,Georgia,905,GE,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,a0b0a26a-7b51-4fe4-ae39-b75544447e3a,,0
+MSR,Montserrat,2697,MS,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,7ffdaa40-ea57-4c19-99f3-d58345b4b624,,0
+TKM,Turkmenistan,3419,TM,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,bb9c6283-5067-4575-a3d9-7f608945b439,,0
+HND,Honduras,933,HN,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,3748e396-1d8d-416b-8e0b-2f46f4926103,,0
+TUV,Tuvalu,3424,TV,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,225537c1-de65-4cc8-b8f0-8dc6123f58f2,,0
+FRO,Faroe Islands,901,FO,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,0eb5ab37-fa96-4a0d-8186-1b30520f0658,,0
+TTO,Trinidad and Tobago,3336,TT,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,f5530848-bd71-4a68-857e-4983c6a979d0,,0
+UZB,Uzbekistan,3503,UZ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,9fb3d904-3d08-4995-b4be-712b91f95923,,0
+NRU,Nauru,2728,NR,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,d70038bf-3cf6-4780-8aa4-e3307edb4928,,0
+BWA,Botswana,204,BW,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,13bc0bc8-661d-47a6-9612-12bacb6d135a,,0
+JAM,Jamaica,1530,JM,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,a66cbff0-f03a-421d-a986-5dc96e904218,,0
+GIN,Guinea,926,GN,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,98db3062-56a6-4349-9d7e-0749fba50915,,0
+NIU,Niue,2805,NU,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,9b784e1a-02e6-4f18-a11e-d9873b4acee9,,0
+VUT,Vanuatu,3537,VU,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,ea677486-cc90-4d64-83cd-0edb01f5f88d,,0
+ROM,Romania,3018,RO,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,c98b22e6-888c-48ba-ba4a-8ab7492bf25d,,0
+PRY,Paraguay,2885,PY,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,8682b893-0b6b-40ff-b229-a063ddaf4ef1,,0
+SEN,Senegal,3198,SN,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,bdced660-8d5f-4aaf-8b82-195f684bf6f1,,0
+MKD,Macedonia,2460,MK,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,2b3e96e3-8e50-470a-a2b5-50cbca615cf1,,0
+SHN,Saint Helena,3063,SH,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,1879ee1a-e611-4232-b80e-3e4f133f4731,,0
+CXR,Christmas Island,1791,CX,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,2f4a1ad6-e8c2-4a1d-83aa-351b5ff8f896,,0
+PSE,Palestine,4074,PS,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,8c2a9f68-8ed4-4a5d-a332-251d2f606224,,0
+BIH,Bosnia and Herzegovina,201,BA,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,221a2f4d-3941-4aa9-83d8-779e29d5f609,,0
+AUS,Australia,135,AU,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,8274af0c-1970-4f56-ab4a-68395b180a36,,0
+BOL,Bolivia,194,BO,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,a2771b3d-cbf1-41a7-bf03-1bc5775316ed,,0
+IDN,Indonesia,939,ID,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,abcdb74f-4d25-4640-bf36-aac97cbab923,,0
+KHM,Cambodia,1800,KH,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,0c24cdbc-24e2-4d00-9b49-2b0c7d0cddd2,,0
+CCK,Cocos (Keeling) Islands,2317,CC,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,2b4aec61-ae4b-40b5-ae10-75602c194bea,,0
+VIR,"Virgin Islands, U.S.",4067,VI,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,57e368e0-aba5-4df7-834a-53ba2fd7e061,,0
+TGO,Togo,3332,TG,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,be0ade90-8236-4ebe-9414-09ea8e602822,,0
+SWE,Sweden,3048,SE,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,53545448-bd04-47e0-abf1-0408fdc70531,,0
+MDG,Madagascar,2455,MG,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,0a55428b-67b9-4c20-bfb5-db44d6df109a,,0
+COK,Cook Islands,583,CK,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,27e53ab4-1c5f-40da-a84f-a3c9ec954903,,0
+MDA,Moldova,2690,MD,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,2e2c5eab-4738-450f-9823-23ae9cac33f0,,0
+BRA,Brazil,211,BR,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,264cf20c-f23d-4032-bf2c-570b18610aa3,,0
+ISR,Israel,1450,IL,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,e07538e8-2bec-4ba8-9ac7-8524f5876046,,0
+HKG,Hong Kong,937,HK,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,2279e047-5c98-41cb-98b2-b36aad9b3bac,,0
+SAU,Saudi Arabia,3173,SA,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,f5b0c1bf-6f6a-44a7-94a9-12090e0c4214,,0
+NPL,Nepal,2729,NP,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,c3ac75c3-bcbf-4d0c-bf2b-a101ef5ff488,,0
+SYC,Seychelles,3206,SC,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,9f5251b6-b06e-4c77-8d0e-126c83aa2333,,0
+NZL,New Zealand,3499,NZ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,e2706489-966a-4d0b-b660-c20ce9d38614,,0
+PER,Peru,2890,PE,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,c153e501-6332-4039-bd3a-ba955a27f0ba,,0
+IND,India,1109,IN,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,204d3423-d157-401e-aa64-a916a5aae406,,0
+THA,Thailand,3320,TH,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,2e0f5464-f2bd-4629-ace9-726d22423177,,0
+NGA,Nigeria,2754,NG,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,629652d4-23e1-4300-b962-b5ff6e4c79d6,,0
+SMR,San Marino,3171,SM,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,9291ca9a-174e-48e8-87ed-6d1c8d2f72b9,,0
+ERI,Eritrea,652,ER,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,4e7a2552-d2fc-41ff-8ef6-32a72a1baebb,,0
+CRI,Costa Rica,584,CR,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,9665b34d-88fe-4039-b264-8109e72fcf79,,0
+TCD,Chad,3337,TD,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,5a23cc81-b9e9-4444-988b-3bd8c2385c7d,,0
+PHL,Philippines,766,PH,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,9909c642-f0ba-4356-97a8-2f891129a82d,,0
+ZWE,Zimbabwe,4068,ZW,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,f54c2012-30db-4c27-b7c6-5afe7451b0ed,,0
+MEX,Mexico,2515,MX,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,e89bed67-6d2f-42b3-af18-2a649764ec1d,,0
+NIC,Nicaragua,2734,NI,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,98ef28c6-d1b2-4a80-ab5b-e2849dd09077,,0
+CHN,China,1891,CN,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,831f19e3-492a-43f9-a077-9be607d69561,,0
+QAT,Qatar,2973,QA,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,3e53fed1-d0f0-4d81-8529-23fa9a9d8478,,0
+PYF,French Polynesia,3016,PF,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,86dd6cbf-e4af-43cf-9d4b-ea728f30bb41,,0
+PCN,Pitcairn,2912,PN,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,ef702be0-9220-4259-a46d-c4f8d7340685,,0
+KOR,South Korea,2331,KR,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,d46408f2-32b8-4646-a61f-fa818ffa00e1,,0
+LCA,Saint Lucia,3065,LC,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,0e0e32e6-0264-467a-b5d6-4b0a149088f5,,0
+TKL,Tokelau,3333,TK,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,2c9ff6f8-416f-41f7-8477-02855a2069ad,,0
+TWN,Taiwan,3263,TW,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,67c8bc32-4dbf-443a-a54d-44cd3d9b5e8e,,0
+AND,Andorra,55,AD,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,e8f45fde-d356-4b8b-93e1-ff67b9b6b7b8,,0
+VGB,"Virgin Islands, British",537,VG,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,dccffa93-e83e-4bfa-8996-11c67ada6372,,0
+MMR,Myanmar,2710,MM,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,db097c3b-3b35-4c3d-9613-40af704b45b0,,0
+LBR,Liberia,2440,LR,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,47b1a9b5-b85b-42d1-a641-efd111dca9d4,,0
+NLD,Netherlands,5,NL,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,f00ddd60-31bf-4dc8-9188-35fff6d842c7,,0
+ATG,Antigua and Barbuda,63,AG,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,35603fca-a27b-407a-ae08-7a3f2aac6836,,0
+LAO,Laos,2432,LA,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,5aa7658a-996f-4ca9-a3cf-a59b8926b844,,0
+SVK,Slovakia,3209,SK,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,7d6aa570-0b1a-4886-b884-27b87e14d1be,,0
+ECU,Ecuador,594,EC,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,ed99f325-8468-422d-a446-0bb94dd4fe3a,,0
+GNQ,Equatorial Guinea,2972,GQ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,85fd715a-2fc3-4cc7-ab7f-7f3fa8777a2b,,0
+AZE,Azerbaijan,144,AZ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,1365f8c3-e452-478f-a54c-35540c26db32,,0
+LSO,Lesotho,2437,LS,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,e17c26a6-49f4-4022-944b-e11bd1c68a63,,0
+PAN,Panama,2882,PA,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,69c2c4dc-a949-41cf-ab8d-f70477e2b035,,0
+SLV,El Salvador,645,SV,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,f0ea19d2-7e07-4432-ae4c-c12db5b02185,,0
+GIB,Gibraltar,915,GI,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,6fb16e2b-7c52-4cc0-a3eb-44304c7ff614,,0
+SPM,Saint Pierre and Miquelon,3067,PM,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,ff558e3f-cd3f-4ce8-bde4-451ec96fc660,,0
+GNB,Guinea-Bissau,927,GW,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,aa0aff69-1c40-4a0e-b818-e4d4b1a67928,,0
+VAT,Holy See (Vatican City State),3538,VA,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,fb1ba6c7-66e4-4c55-8d4c-3f8d3f1cc05e,,0
+BEN,Benin,187,BJ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,67733be8-61c4-4de6-95ca-5d9420ae94f0,,0
+PAK,Pakistan,2831,PK,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,fe38e0af-29bb-4f0e-9d89-77068bbd5bf1,,0
+CZE,Czech Republic,3339,CZ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,523a56c5-8f6d-422a-bc90-51041e478dad,,0
+COD,"Congo, The Democratic Republic of the",2298,CD,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,7e2c5fbb-fd8f-432a-8223-1dc7767ffa01,,0
+ARE,United Arab Emirates,65,AE,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,73a0dfbb-92c4-40fe-96f1-76a564ed603c,,0
+PRK,North Korea,2318,KP,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,479832d6-5cc5-42cf-bf69-36a44bf7afc4,,0
+MTQ,Martinique,2508,MQ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,2415b9fb-fae2-4675-a65f-c13c2e0b5359,,0
+HMD,Heard Island and McDonald Islands,,HM,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,60f9a350-861c-40d2-8a9d-aefee5d59e1d,,0
+BGR,Bulgaria,539,BG,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,57798f6c-862c-4646-8351-44b93119d034,,0
+KIR,Kiribati,2256,KI,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,ce83b580-e505-4bee-b7b8-ec6cf7bb0789,,0
+ALB,Albania,34,AL,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,a1307e39-ee24-49df-8e3a-9922226144e0,,0
+GUY,Guyana,928,GY,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,2752e89b-66e7-45ee-a331-d0ff561793fd,,0
+PRT,Portugal,2914,PT,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,2cfd902c-de7f-4bd0-b9c1-314769faab9e,,0
+SLE,Sierra Leone,3207,SL,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,88d34881-4ebb-4424-9520-0a60cf5687ad,,0
+AUT,Austria,1523,AT,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,fc06640a-59dc-49ec-b0f5-67376a3eb60c,,0
+ESP,Spain,653,ES,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,3cdb07c6-37b5-4ff9-aca2-e797e35f297a,,0
+ZMB,Zambia,3162,ZM,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,19a7066d-e2a4-46d8-8500-8658699bd33c,,0
+FSM,"Micronesia, Federated States of",2689,FM,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,ffb0bfb4-650b-4a85-85fd-07bc9b544eae,,0
+SGP,Singapore,3208,SG,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,df86fbbe-c995-4e13-96e3-925e10ffaa2b,,0
+CHL,Chile,554,CL,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,6dfbf738-66ca-4874-98b4-b884f36396dd,,0
+SWZ,Swaziland,3244,SZ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,cd6e85f3-42c5-42a3-8db9-1cdcc41fcf42,,0
+TON,Tonga,3334,TO,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,5e60ce4f-e40a-4700-9fff-2ecbe985489f,,0
+MYS,Malaysia,2464,MY,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,fe591294-9527-4ab9-9167-6a5549d5753d,,0
+GTM,Guatemala,922,GT,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,e7a54bd1-e059-433c-8647-6349f7ffeafc,,0
+TCA,Turks and Caicos Islands,3423,TC,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,d8058804-833e-4f6a-9f61-e51b92bb7b66,,0
+KNA,Saint Kitts and Nevis,3064,KN,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,5ce014a8-eede-41fc-ae6c-5f84603bf411,,0
+EGY,Egypt,608,EG,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,becd83b2-8e2c-4f93-9b04-58fb3e415312,,0
+DMA,Dominica,586,DM,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,8707f4e0-c2e6-4132-a10f-d3c427225d6a,,0
+IRQ,Iraq,1365,IQ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,640cb828-c393-4a63-86ba-f08b8a545a35,,0
+CIV,Côte dIvoire,2814,CI,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,5f2b985e-42d6-4ca0-83a9-85898a888220,,0
+FLK,Falkland Islands,763,FK,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,bd14b585-6c77-4749-9586-09b48df813ac,,0
+STP,Sao Tome and Principe,3172,ST,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,77703387-3e09-4414-b0e1-62985937aa9f,,0
+DZA,Algeria,35,DZ,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,e670640a-e2df-4e42-ac78-f06b22126108,,0
+ZAF,South Africa,716,ZA,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,8a8aecdb-c0d5-445c-b7bd-cf72098f4f9b,,0
+AFG,Afghanistan,1,AF,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,910617a9-845a-481e-96bf-50ede75e3792,,0
+MDV,Maldives,2463,MV,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,11a20ace-75c2-4fa2-a0b3-4971bf57cf37,,0
+NOR,Norway,2807,NO,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,57d960f9-2a2b-4ea0-8430-ef74c599f020,,0
+TMP,East Timor,1522,TP,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,6da57838-62e6-4b2d-bd0a-d4eee3e6a590,,0
+VEN,Venezuela,3539,VE,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,9355cc9e-ae47-4a1e-b847-bab0294d7cff,,0
+TUN,Tunisia,3349,TN,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,856efba0-21c5-4816-a509-0753385a26ad,,0
+COG,Congo,2296,CG,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,ffc3ba40-8d78-43cb-a6e7-8312ddbc40e8,,0
+SLB,Solomon Islands,3161,SB,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,d65ea064-db2a-46ac-88ba-ac8a0735a195,,0
+CAF,Central African Republic,1889,CF,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,2d9d6f22-2f9b-4e5b-a587-279826a723f3,,0
+MCO,Monaco,2695,MC,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,2be6c619-d2d4-46ad-b783-d2ffa3360eeb,,0
+DNK,Denmark,3315,DK,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,ebe12c66-8fa4-4faa-83ef-e36eeaf27646,,0
+BDI,Burundi,552,BI,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,207875b2-f5c1-48ae-a85e-ce8fdbe87ee0,,0
+SVN,Slovenia,3212,SI,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,81a321d3-f8be-4fba-97f9-d46464217669,,0
+MHL,Marshall Islands,2507,MH,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,66106f2e-df73-44f6-bb3a-4c45964f3269,,0
+ANT,Netherlands Antilles,33,AN,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,0abd4994-239e-4c0e-8bd4-5b7300a5c7d6,,0
+ABW,Aruba,129,AW,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,fa196772-bad7-4fce-a607-4b73aee1bfdf,,0
+WLF,Wallis and Futuna,3536,WF,2023-06-22 18:25:25.000000 UTC,2023-06-22 18:25:25.000000 UTC,mysql-backfill-fulldump,mysql,false,INSERT,f39140a9-5a19-455c-984e-bd576aa41433,,0
